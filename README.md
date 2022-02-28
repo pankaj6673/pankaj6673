@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pankaj Singh 😎</h1>
+<h1 align="center">Hi, I'm Pankaj Singh 🧑</h1>
 <h3 align="center">A passionate software developer from United Kingdom</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pankaj6673&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj6673" /> </p>
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **React project & Automation**
 
-- 🌱 I’m currently learning **automate work with Python**
+- 🌱 I’m currently learning **automate work with Python 🤖**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pankaj6673](https://github.com/pankaj6673)
 
 - 📫 How to reach me **pankaj6673@gmail.com**
 
-- ⚡ Fun fact **In my spare time I work on my problem solving skill with the help of Google**
+- ⚡ Fun fact **In my spare time I work on my problem solving skill with the help of Google 🧐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
