@@ -5,9 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankaj6673" alt="pankaj6673" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain Developer**
+- 🔭 I’m currently working on **Automating work with Python and Blockchain**
 
-- 🌱 I’m currently learning **Blockchain 🤖**
+- 🌱 I’m currently learning **Smart Contracts 🤖**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pankaj6673](https://github.com/pankaj6673)
 
