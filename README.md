@@ -5,9 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankaj6673" alt="pankaj6673" /></a> </p>
 
-- 🔭 I’m currently working on **Automating work with Python and React**
-
-- 🌱 I’m currently learning **Python-automaton🤖**
+- 🔭 I’m currently working on **React projects** <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="20"/>
 
 - 👨‍💻 All of my projects are available at [https://github.com/pankaj6673](https://github.com/pankaj6673)
 
