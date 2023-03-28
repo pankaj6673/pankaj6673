@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pankaj6673@gmail.com**
 
-- [![CodePen Badge] My website **http://pankajs.co.uk/**
+- 💻 My website **http://pankajs.co.uk/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
