@@ -9,9 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pankaj6673](https://github.com/pankaj6673)
 
-- 📫 How to reach me **pankaj6673@gmail.com**
-
-- 💻 My website **http://pankajs.co.uk/**
+- 📫 How to reach me **psingh21360@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
